@@ -1,3 +1,7 @@
+// 文字列反転ロジック
+//   reverse('apple') === 'leppa'
+//   reverse('hello') === 'olleh'
+
 //good
 function reverse(str) {
    return str

@@ -1,3 +1,6 @@
+// 回文判定ロジック
+// "abcba" === true
+
 //good
 function palindrome(str) {
 	const rev = str.split('').reverse().join('');

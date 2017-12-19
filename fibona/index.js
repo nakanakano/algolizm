@@ -1,5 +1,4 @@
-
-
+//フィボナッチ数列
 function fib(n) {
 
   if (n < 2) {
